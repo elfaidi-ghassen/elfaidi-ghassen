@@ -12,5 +12,6 @@ Hi there, I'm Ghassen Faidi 👋
 
 ## Technical Skills
 Languages: Python
+
 Tools: Git, Github
 
