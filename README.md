@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Ghassen Faidi 👋
 
-<!--
-**elfaidi-ghassen/elfaidi-ghassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Studying rigorous computer science & software engineering at university  
+- I'm taking it slow and focusing on mastering the fundamentals of software development  
+- I'm interested in education, metacognition, technical writing and translation
 
-Here are some ideas to get you started:
+🌱 Currently 
+- I'm learning the fundamentals Machine Learning
+- Studying discrete mathematics
+- Mastering the core fundamentals of programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Languages: Python
+Tools: Git, Github
+
