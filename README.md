@@ -15,6 +15,9 @@ Hi there, I'm Ghassen Faidi 👋
 - Learning French (again)
 
 ### OSSU Progress
+<details>
+  <summary>Courses</summary>
+  
 - [ ] Introduction to Computer Science and Programming using Python
 - [x] Systematic Program Design
 - [ ] Class-based Program Design -- started did not complete yet
@@ -42,6 +45,8 @@ Hi there, I'm Ghassen Faidi 👋
 - [ ] Advanced Information Security
 - [x] Fullstack Open
 - [ ] Functional Programming in Scala
+  
+</details>
 
 
 
