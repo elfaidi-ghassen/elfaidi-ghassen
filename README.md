@@ -1,17 +1,14 @@
 Hi there, I'm Ghassen Faidi 👋
 
-## About me
+### About me
 - Studying rigorous computer science & software engineering at university  
-- I'm taking it slow and focusing on mastering the fundamentals of software development  
 - I'm interested in education, metacognition, technical writing and translation
+- I have a [personal blog](https://faidi.tech/)
+- I watch some old Japanese films from time to time (Ozu/Akira Kurusawa)
+- I really like tea, but I haven't mastered making it yet.
 
-🌱 Currently 
-- I'm learning the fundamentals Machine Learning
-- Studying discrete mathematics
-- Mastering the core fundamentals of programming
-
-## Technical Skills
-Languages: Python
-
-Tools: Git, Github
-
+### 🌱 Currently 
+- I'm learning how to draw!
+- Studying Time Roughgarden's Algorithms course
+- Learning Docker (fullstackopen)
+- Learning French (again)
